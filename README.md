@@ -10,21 +10,20 @@
 
 ### Ressources
 
-Sdk DirectX :
+Sdk DirectX : <br> 
 https://www.microsoft.com/en-us/download/details.aspx?id=6812 
 
-
-Projet UE4 steam : 
+Projet UE4 steam : <br> 
 https://github.com/UnrealEngineLudusAcademie/PuzzlePlatformsMultiplayerSteam/tree/v-UE4.26
 
-Projet UE4 multi réseau local : 
+Projet UE4 multi réseau local : <br>  
 https://github.com/UnrealEngineLudusAcademie/PuzzlePlateforms_Multi
 
-Liens Steam :
+Liens Steam : <br> 
 https://partner.steamgames.com/dashboard
 https://partner.steamgames.com/doc/sdk
 
-Documentation Unreal :
+Documentation Unreal : <br> 
 https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Networking/
 https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Networking/Overview/
 https://docs.unrealengine.com/4.27/en-US/InteractiveExperiences/Networking/Server/
